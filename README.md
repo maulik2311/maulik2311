@@ -16,7 +16,7 @@
 
 ### 🏆 Certifications
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9ae71262-95a6-4ae5-a263-e0a57020965a/public_url)
+[![AWS Cloud Quest: Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest:%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9ae71262-95a6-4ae5-a263-e0a57020965a/public_url)
 
 ---
 
