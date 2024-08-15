@@ -2,9 +2,9 @@
 
 ---
 
-### 🔭 I’m currently looking for a **DevOps job** and am eager to apply my skills in a professional setting.
+### 🔭 I’m currently looking for a **DevOps job**.
 
-### 🌱 I have hands-on experience with a variety of **DevOps tools**:
+### 🌱 Hands-on experience with:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
@@ -20,27 +20,27 @@
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-- I completed an internship at **StarAgile**, where I worked on automating deployment pipelines and improving CI/CD processes.
+- **Internship at StarAgile**: Worked on automating deployment pipelines and improving CI/CD processes.
 
 ---
 
 ### 👯 Open to Collaboration
 
-- I’m looking to collaborate on **open-source projects** related to DevOps, automation, and infrastructure as code.
+- Looking for **open-source projects** related to DevOps and automation.
 
 ---
 
 ### 🚀 Always Learning
 
-- I’m always ready to learn new things, especially in the rapidly evolving DevOps field. Whether it's exploring new tools, methodologies, or best practices, I'm constantly on the lookout for opportunities to grow.
+- Eager to learn new tools and best practices in the DevOps field.
 
 ---
 
 ### 💬 Let's Connect
 
-- I’m here to **share experiences, exchange ideas, and help** with any DevOps challenges you might be facing. If you're interested in discussing your DevOps journey or need assistance with your projects, feel free to reach out!
+- Happy to share experiences and help with DevOps challenges. Reach out if you're interested in discussing your journey or need assistance!
 
 ---
 
@@ -56,6 +56,5 @@
 
 ---
 
-### 😄 Pronouns: **He/Him**
-
-### ⚡ Fun fact: I enjoy solving complex problems and am passionate about automating everything to make life easier!
+### 😄 Pronouns: **He/Him**  
+### ⚡ Fun fact: I enjoy solving complex problems and automating everything!
