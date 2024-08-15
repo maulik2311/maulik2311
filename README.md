@@ -2,7 +2,7 @@
 
 ---
 
-### 🔭 Currently looking for a **DevOps job**.
+### 🔭 Actively seeking new opportunities in **DevOps** to leverage my skills and experience.
 
 ### 🌱 Hands-on experience with:
 
