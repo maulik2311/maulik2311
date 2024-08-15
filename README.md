@@ -28,6 +28,10 @@
 
 ---
 
+### 📄 [**Check out my resume**](https://drive.google.com/file/d/1gm7n_oZVnl9ZVRyWbnAE6W4fwBmUELEr/view?usp=sharing)
+
+---
+
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdevani/)
@@ -39,4 +43,3 @@
 ### 😄 Pronouns: **He/Him**
 
 ### ⚡ Fun fact: I enjoy solving complex problems and am passionate about automating everything to make life easier!
-
