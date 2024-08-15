@@ -4,27 +4,43 @@
 
 ### 🔭 I’m currently looking for a **DevOps job** and am eager to apply my skills in a professional setting.
 
-### 🌱 I have hands-on experience with various **DevOps tools** like:
+### 🌱 I have hands-on experience with a variety of **DevOps tools**:
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-### 💼 I completed an internship at **StarAgile**, where I worked on automating deployment pipelines and improving CI/CD processes.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) 
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ---
 
-### 👯 I’m looking to collaborate on **open-source projects** related to DevOps, automation, and infrastructure as code.
+### 🏆 Certifications
 
-### 🚀 I’m always ready to learn new things, especially in the rapidly evolving DevOps field.
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9ae71262-95a6-4ae5-a263-e0a57020965a/public_url)
 
 ---
 
-### 💬 Reach out to me if you want to **share your DevOps journey** or practice together! I’m here to help with any doubts or challenges you might face.
+### 💼 Professional Experience
+
+- I completed an internship at **StarAgile**, where I worked on automating deployment pipelines and improving CI/CD processes.
+
+---
+
+### 👯 Open to Collaboration
+
+- I’m looking to collaborate on **open-source projects** related to DevOps, automation, and infrastructure as code.
+
+---
+
+### 🚀 Always Learning
+
+- I’m always ready to learn new things, especially in the rapidly evolving DevOps field. Whether it's exploring new tools, methodologies, or best practices, I'm constantly on the lookout for opportunities to grow.
+
+---
+
+### 💬 Let's Connect
+
+- I’m here to **share experiences, exchange ideas, and help** with any DevOps challenges you might be facing. If you're interested in discussing your DevOps journey or need assistance with your projects, feel free to reach out!
 
 ---
 
