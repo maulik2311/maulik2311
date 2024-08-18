@@ -20,6 +20,12 @@
 
 ---
 
+### 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1gm7n_oZVnl9ZVRyWbnAE6W4fwBmUELEr/view?usp=sharing)
+
+---
+
 ### 📫 Reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdevani/)
