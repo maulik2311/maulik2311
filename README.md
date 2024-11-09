@@ -1,4 +1,4 @@
-# Hi there, I'm Maulik 👋
+# Hi there, I'm Maulik 
 
 ---
 
